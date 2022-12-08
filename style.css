@@ -1,0 +1,93 @@
+*{
+
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+
+.main{
+
+position: relative;    
+height:100vh;
+width: 100%;
+background-image: url(pexels-singkham-1108572.jpg);
+background-position: center;
+background-size: cover;
+opacity: 0.8;
+
+
+}
+
+nav{
+
+display: flex;
+align-items: center;
+padding-top: 40px;
+padding-left: 10%;
+padding-right: 10%;
+justify-content: space-between;
+
+
+
+}
+
+h2{
+
+color: greenyellow;
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border: solid ;
+border-radius: 3px;
+
+
+}
+
+nav ul li{
+
+list-style-type: none;
+display: inline-block;
+padding:10px 20px;
+
+
+
+}
+
+
+a{
+
+
+color: white;
+text-decoration: none;
+font-weight: bold;
+
+
+}
+
+a:hover{
+
+
+color:greenyellow;
+
+}
+
+
+section{
+
+display: flex;
+justify-content: left;
+
+
+}
+
+img{
+
+text-decoration: none;
+border: 4px;
+
+
+}

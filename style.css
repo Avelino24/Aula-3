@@ -1,0 +1,38 @@
+body{
+
+
+background-color: cadetblue;
+
+
+}
+
+h1{
+
+
+text-align: center;
+border: 1px;
+border-radius: 10px;
+margin-bottom: 20px;
+background-color: white;
+padding: 5px;
+
+
+
+}
+
+table{
+
+border: 2px;
+
+
+}
+
+p{
+
+text-align: justify;
+margin-bottom: 20px;
+margin-top: 20px;
+
+
+}
+
